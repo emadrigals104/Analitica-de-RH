@@ -1,0 +1,809 @@
+ID_Empleado,Género,Etnia,Antigüedad_Años,Departamento,Salario_Anual,Puesto_Laboral
+609,Masculino,Otros,3,Tecnología,113893.03,Administrador de Sistemas
+32,Masculino,Indígena,10,Marketing,72240.05,Especialista en Marketing
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+816,Masculino,Indígena,15,Recursos Humanos,82942.93,Coordinador de RRHH
+804,Masculino,Otros,17,Ventas,73358.08,Ejecutivo de Ventas
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+214,Masculino,Otros,1,Ventas,61822.35,Asistente de Ventas
+781,Masculino,Otros,3,Tecnología,132972.11,Desarrollador
+576,Masculino,Asiático,39,Operaciones,76151.37,Empleado General
+98,Masculino,Otros,12,Legal,80503.6,Asesor Legal
+147,Masculino,Hispano,3,Operaciones,74288.58,Empleado General
+975,Masculino,Otros,26,Legal,134187.13,Abogado
+309,Masculino,Indígena,30,Legal,113967.66,Asesor Legal
+576,Masculino,Asiático,39,Operaciones,76151.37,Empleado General
+940,Masculino,Indígena,22,Finanzas,124053.21,Contador
+533,Masculino,Caucásico,23,Operaciones,96915.61,Empleado General
+32,Masculino,Indígena,10,Marketing,72240.05,Especialista en Marketing
+981,Masculino,Otros,17,Recursos Humanos,78631.48,Reclutador
+981,Masculino,Otros,17,Recursos Humanos,78631.48,Reclutador
+77,Masculino,Indígena,28,Marketing,95716.24,Especialista en Marketing
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+675,Masculino,Asiático,3,Recursos Humanos,72197.9,Reclutador
+982,Masculino,Asiático,23,Marketing,99299.0,Especialista en Marketing
+401,Masculino,Otros,3,Marketing,53284.13,Especialista en Marketing
+506,Masculino,Hispano,3,Finanzas,97017.85,Contador
+947,Masculino,Asiático,29,Tecnología,132403.28,Desarrollador
+729,Masculino,Caucásico,36,Ventas,89521.29,Asistente de Ventas
+355,Masculino,Afrodescendiente,39,Marketing,98091.8,Diseñador Gráfico
+182,Masculino,Asiático,23,Tecnología,84695.31,Desarrollador
+318,Masculino,Otros,22,Tecnología,111218.68,Desarrollador
+39,Masculino,Hispano,16,Ventas,91705.11,Ejecutivo de Ventas
+369,Masculino,Otros,7,Marketing,50653.1,Diseñador Gráfico
+811,Masculino,Indígena,6,Operaciones,47364.18,Empleado General
+911,Masculino,Caucásico,23,Recursos Humanos,91972.18,Reclutador
+834,Masculino,Otros,29,Recursos Humanos,89863.08,Especialista en RRHH
+942,Masculino,Asiático,30,Recursos Humanos,74586.9,Especialista en RRHH
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+784,Masculino,Asiático,27,Operaciones,107415.81,Empleado General
+600,Masculino,Indígena,25,Finanzas,63015.05,Analista Financiero
+286,Masculino,Afrodescendiente,4,Operaciones,50632.57,Empleado General
+663,Masculino,Indígena,5,Finanzas,95580.02,Auditor
+904,Masculino,Asiático,18,Finanzas,69957.04,Auditor
+198,Masculino,Hispano,25,Tecnología,99836.15,Analista de Datos
+686,Masculino,Otros,10,Tecnología,84592.98,Administrador de Sistemas
+61,Masculino,Otros,4,Operaciones,76758.8,Empleado General
+275,Masculino,Caucásico,4,Legal,67823.4,Asesor Legal
+510,Masculino,Indígena,16,Finanzas,61585.7,Auditor
+980,Masculino,Indígena,10,Tecnología,125957.06,Desarrollador
+745,Masculino,Otros,10,Legal,115467.24,Paralegal
+850,Masculino,Otros,22,Ventas,45755.16,Ejecutivo de Ventas
+648,Masculino,Otros,18,Finanzas,124889.53,Contador
+94,Masculino,Indígena,2,Marketing,46619.85,Estratega Digital
+963,Masculino,Otros,35,Recursos Humanos,68528.16,Especialista en RRHH
+711,Masculino,Caucásico,3,Legal,124122.34,Asesor Legal
+836,Masculino,Hispano,25,Legal,137509.13,Paralegal
+369,Masculino,Otros,7,Marketing,50653.1,Diseñador Gráfico
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+795,Masculino,Caucásico,17,Ventas,79554.87,Asistente de Ventas
+386,Masculino,Indígena,10,Marketing,85891.1,Especialista en Marketing
+991,Masculino,Indígena,7,Ventas,36837.57,Gerente de Ventas
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+94,Masculino,Indígena,2,Marketing,46619.85,Estratega Digital
+329,Masculino,Asiático,4,Operaciones,80881.82,Empleado General
+775,Masculino,Asiático,9,Recursos Humanos,46419.88,Especialista en RRHH
+712,Masculino,Otros,35,Legal,141964.47,Paralegal
+663,Masculino,Indígena,5,Finanzas,95580.02,Auditor
+724,Masculino,Indígena,25,Legal,111424.08,Abogado
+352,Masculino,Afrodescendiente,4,Recursos Humanos,57017.83,Reclutador
+101,Masculino,Hispano,10,Finanzas,104724.61,Contador
+775,Masculino,Asiático,9,Recursos Humanos,46419.88,Especialista en RRHH
+510,Masculino,Indígena,16,Finanzas,61585.7,Auditor
+389,Masculino,Otros,30,Recursos Humanos,56623.53,Coordinador de RRHH
+821,Masculino,Indígena,40,Tecnología,163692.96,Analista de Datos
+759,Masculino,Hispano,26,Finanzas,71172.35,Contador
+600,Masculino,Indígena,25,Finanzas,63015.05,Analista Financiero
+775,Masculino,Asiático,9,Recursos Humanos,46419.88,Especialista en RRHH
+166,Masculino,Hispano,32,Legal,78923.78,Paralegal
+510,Masculino,Indígena,16,Finanzas,61585.7,Auditor
+193,Masculino,Hispano,31,Tecnología,134590.64,Administrador de Sistemas
+561,Masculino,Hispano,21,Legal,137994.31,Abogado
+584,Masculino,Otros,27,Legal,139805.85,Paralegal
+735,Masculino,Otros,40,Marketing,88005.8,Estratega Digital
+303,Masculino,Otros,35,Tecnología,133912.24,Desarrollador
+690,Masculino,Afrodescendiente,23,Marketing,62588.97,Estratega Digital
+942,Masculino,Asiático,30,Recursos Humanos,74586.9,Especialista en RRHH
+517,Masculino,Indígena,20,Operaciones,59084.63,Empleado General
+947,Masculino,Asiático,29,Tecnología,132403.28,Desarrollador
+781,Masculino,Otros,3,Tecnología,132972.11,Desarrollador
+638,Masculino,Otros,34,Tecnología,94924.12,Administrador de Sistemas
+975,Masculino,Otros,26,Legal,134187.13,Abogado
+506,Masculino,Hispano,3,Finanzas,97017.85,Contador
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+214,Masculino,Otros,1,Ventas,61822.35,Asistente de Ventas
+424,Masculino,Asiático,28,Marketing,101464.06,Estratega Digital
+947,Masculino,Asiático,29,Tecnología,132403.28,Desarrollador
+227,Masculino,Hispano,27,Ventas,53112.97,Gerente de Ventas
+39,Masculino,Hispano,16,Ventas,91705.11,Ejecutivo de Ventas
+97,Masculino,Afrodescendiente,9,Marketing,51283.07,Especialista en Marketing
+982,Masculino,Asiático,23,Marketing,99299.0,Especialista en Marketing
+438,Masculino,Indígena,29,Finanzas,118810.55,Contador
+416,Masculino,Asiático,2,Recursos Humanos,77597.08,Coordinador de RRHH
+205,Masculino,Caucásico,39,Ventas,60345.06,Ejecutivo de Ventas
+490,Masculino,Caucásico,18,Recursos Humanos,59940.87,Coordinador de RRHH
+745,Masculino,Otros,10,Legal,115467.24,Paralegal
+533,Masculino,Caucásico,23,Operaciones,96915.61,Empleado General
+711,Masculino,Caucásico,3,Legal,124122.34,Asesor Legal
+310,Masculino,Indígena,29,Tecnología,118813.03,Administrador de Sistemas
+638,Masculino,Otros,34,Tecnología,94924.12,Administrador de Sistemas
+187,Masculino,Hispano,35,Finanzas,95883.02,Analista Financiero
+386,Masculino,Indígena,10,Marketing,85891.1,Especialista en Marketing
+234,Masculino,Indígena,19,Legal,66609.11,Abogado
+280,Masculino,Otros,12,Tecnología,94801.45,Desarrollador
+980,Masculino,Indígena,10,Tecnología,125957.06,Desarrollador
+200,Masculino,Caucásico,1,Recursos Humanos,42693.4,Reclutador
+396,Masculino,Indígena,33,Marketing,100238.3,Diseñador Gráfico
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+743,Masculino,Asiático,7,Operaciones,77635.28,Empleado General
+556,Masculino,Asiático,8,Operaciones,89731.25,Empleado General
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+231,Masculino,Indígena,9,Finanzas,118354.58,Contador
+416,Masculino,Asiático,2,Recursos Humanos,77597.08,Coordinador de RRHH
+280,Masculino,Otros,12,Tecnología,94801.45,Desarrollador
+346,Masculino,Caucásico,18,Finanzas,70176.64,Contador
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+859,Masculino,Caucásico,39,Finanzas,137756.1,Auditor
+638,Masculino,Otros,34,Tecnología,94924.12,Administrador de Sistemas
+609,Masculino,Otros,3,Tecnología,113893.03,Administrador de Sistemas
+329,Masculino,Asiático,4,Operaciones,80881.82,Empleado General
+234,Masculino,Indígena,19,Legal,66609.11,Abogado
+702,Masculino,Afrodescendiente,31,Finanzas,124673.1,Contador
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+309,Masculino,Indígena,30,Legal,113967.66,Asesor Legal
+637,Masculino,Indígena,18,Operaciones,72763.27,Empleado General
+317,Masculino,Otros,7,Legal,105221.55,Asesor Legal
+271,Masculino,Asiático,8,Recursos Humanos,68770.74,Reclutador
+928,Masculino,Afrodescendiente,9,Operaciones,95855.51,Empleado General
+561,Masculino,Hispano,21,Legal,137994.31,Abogado
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+859,Masculino,Caucásico,39,Finanzas,137756.1,Auditor
+310,Masculino,Indígena,29,Tecnología,118813.03,Administrador de Sistemas
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+101,Masculino,Hispano,10,Finanzas,104724.61,Contador
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+795,Masculino,Caucásico,17,Ventas,79554.87,Asistente de Ventas
+582,Masculino,Afrodescendiente,7,Finanzas,78659.67,Contador
+11,Masculino,Indígena,11,Ventas,56745.82,Asistente de Ventas
+11,Masculino,Indígena,11,Ventas,56745.82,Asistente de Ventas
+223,Masculino,Otros,33,Ventas,70157.85,Asistente de Ventas
+860,Masculino,Asiático,34,Operaciones,70937.38,Empleado General
+318,Masculino,Otros,22,Tecnología,111218.68,Desarrollador
+432,Masculino,Indígena,5,Ventas,53254.17,Asistente de Ventas
+303,Masculino,Otros,35,Tecnología,133912.24,Desarrollador
+12,Masculino,Hispano,37,Operaciones,79708.39,Empleado General
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+561,Masculino,Hispano,21,Legal,137994.31,Abogado
+271,Masculino,Asiático,8,Recursos Humanos,68770.74,Reclutador
+712,Masculino,Otros,35,Legal,141964.47,Paralegal
+729,Masculino,Caucásico,36,Ventas,89521.29,Asistente de Ventas
+967,Masculino,Afrodescendiente,6,Finanzas,75208.14,Contador
+658,Masculino,Afrodescendiente,4,Marketing,66210.66,Estratega Digital
+231,Masculino,Indígena,9,Finanzas,118354.58,Contador
+794,Masculino,Hispano,37,Marketing,75835.94,Estratega Digital
+273,Masculino,Asiático,11,Ventas,68736.74,Gerente de Ventas
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+561,Masculino,Hispano,21,Legal,137994.31,Abogado
+244,Masculino,Otros,8,Ventas,88964.27,Ejecutivo de Ventas
+301,Masculino,Otros,14,Tecnología,107327.69,Analista de Datos
+127,Masculino,Hispano,18,Recursos Humanos,62003.0,Reclutador
+432,Masculino,Indígena,5,Ventas,53254.17,Asistente de Ventas
+116,Masculino,Indígena,15,Operaciones,102209.11,Empleado General
+850,Masculino,Otros,22,Ventas,45755.16,Ejecutivo de Ventas
+648,Masculino,Otros,18,Finanzas,124889.53,Contador
+637,Masculino,Indígena,18,Operaciones,72763.27,Empleado General
+702,Masculino,Afrodescendiente,31,Finanzas,124673.1,Contador
+32,Masculino,Indígena,10,Marketing,72240.05,Especialista en Marketing
+74,Masculino,Asiático,30,Recursos Humanos,88793.86,Especialista en RRHH
+67,Masculino,Indígena,3,Legal,94309.96,Abogado
+231,Masculino,Indígena,9,Finanzas,118354.58,Contador
+616,Masculino,Caucásico,35,Marketing,98880.51,Estratega Digital
+7,Masculino,Hispano,18,Marketing,75304.7,Estratega Digital
+32,Masculino,Indígena,10,Marketing,72240.05,Especialista en Marketing
+257,Masculino,Hispano,14,Recursos Humanos,50326.93,Reclutador
+726,Masculino,Indígena,14,Recursos Humanos,80050.3,Coordinador de RRHH
+42,Masculino,Otros,24,Tecnología,100521.37,Administrador de Sistemas
+359,Masculino,Asiático,30,Operaciones,104532.09,Empleado General
+187,Masculino,Hispano,35,Finanzas,95883.02,Analista Financiero
+730,Masculino,Indígena,7,Recursos Humanos,86258.76,Especialista en RRHH
+402,Masculino,Otros,7,Ventas,72751.32,Asistente de Ventas
+487,Masculino,Hispano,6,Marketing,68596.93,Estratega Digital
+12,Masculino,Hispano,37,Operaciones,79708.39,Empleado General
+516,Masculino,Otros,25,Ventas,63034.42,Gerente de Ventas
+910,Masculino,Hispano,18,Ventas,43697.47,Ejecutivo de Ventas
+168,Masculino,Otros,17,Operaciones,83225.39,Empleado General
+804,Masculino,Otros,17,Ventas,73358.08,Ejecutivo de Ventas
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+616,Masculino,Caucásico,35,Marketing,98880.51,Estratega Digital
+616,Masculino,Caucásico,35,Marketing,98880.51,Estratega Digital
+36,Masculino,Hispano,17,Legal,116302.36,Paralegal
+561,Masculino,Hispano,21,Legal,137994.31,Abogado
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+517,Masculino,Indígena,20,Operaciones,59084.63,Empleado General
+418,Masculino,Caucásico,25,Legal,92497.49,Asesor Legal
+321,Masculino,Asiático,10,Finanzas,119860.98,Contador
+935,Masculino,Asiático,8,Tecnología,105893.83,Analista de Datos
+533,Masculino,Caucásico,23,Operaciones,96915.61,Empleado General
+647,Masculino,Hispano,30,Recursos Humanos,86072.46,Coordinador de RRHH
+73,Masculino,Hispano,2,Ventas,36841.76,Asistente de Ventas
+303,Masculino,Otros,35,Tecnología,133912.24,Desarrollador
+226,Masculino,Otros,5,Marketing,89537.54,Estratega Digital
+775,Masculino,Asiático,9,Recursos Humanos,46419.88,Especialista en RRHH
+346,Masculino,Caucásico,18,Finanzas,70176.64,Contador
+536,Masculino,Otros,12,Marketing,85871.03,Diseñador Gráfico
+534,Masculino,Otros,19,Ventas,72869.39,Ejecutivo de Ventas
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+385,Masculino,Caucásico,33,Recursos Humanos,91684.67,Coordinador de RRHH
+214,Masculino,Otros,1,Ventas,61822.35,Asistente de Ventas
+352,Masculino,Afrodescendiente,4,Recursos Humanos,57017.83,Reclutador
+554,Masculino,Caucásico,28,Operaciones,65696.57,Empleado General
+70,Masculino,Afrodescendiente,27,Ventas,50830.63,Gerente de Ventas
+74,Masculino,Asiático,30,Recursos Humanos,88793.86,Especialista en RRHH
+638,Masculino,Otros,34,Tecnología,94924.12,Administrador de Sistemas
+517,Masculino,Indígena,20,Operaciones,59084.63,Empleado General
+958,Masculino,Indígena,15,Tecnología,86424.86,Desarrollador
+955,Masculino,Indígena,14,Recursos Humanos,87541.71,Especialista en RRHH
+357,Masculino,Caucásico,39,Marketing,104888.06,Especialista en Marketing
+113,Masculino,Asiático,14,Operaciones,85840.53,Empleado General
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+799,Masculino,Hispano,3,Operaciones,86166.53,Empleado General
+24,Masculino,Afrodescendiente,31,Legal,115210.7,Paralegal
+385,Masculino,Caucásico,33,Recursos Humanos,91684.67,Coordinador de RRHH
+584,Masculino,Otros,27,Legal,139805.85,Paralegal
+984,Masculino,Indígena,7,Legal,88478.97,Asesor Legal
+273,Masculino,Asiático,11,Ventas,68736.74,Gerente de Ventas
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+707,Masculino,Hispano,13,Finanzas,126399.26,Analista Financiero
+432,Masculino,Indígena,5,Ventas,53254.17,Asistente de Ventas
+958,Masculino,Indígena,15,Tecnología,86424.86,Desarrollador
+991,Masculino,Indígena,7,Ventas,36837.57,Gerente de Ventas
+321,Masculino,Asiático,10,Finanzas,119860.98,Contador
+692,Masculino,Caucásico,40,Legal,81004.76,Asesor Legal
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+893,Masculino,Afrodescendiente,27,Operaciones,82433.51,Empleado General
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+981,Masculino,Otros,17,Recursos Humanos,78631.48,Reclutador
+612,Masculino,Otros,24,Ventas,78520.67,Ejecutivo de Ventas
+784,Masculino,Asiático,27,Operaciones,107415.81,Empleado General
+402,Masculino,Otros,7,Ventas,72751.32,Asistente de Ventas
+231,Masculino,Indígena,9,Finanzas,118354.58,Contador
+981,Masculino,Otros,17,Recursos Humanos,78631.48,Reclutador
+839,Masculino,Hispano,8,Finanzas,120064.19,Auditor
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+160,Masculino,Afrodescendiente,12,Tecnología,132751.57,Desarrollador
+928,Masculino,Afrodescendiente,9,Operaciones,95855.51,Empleado General
+984,Masculino,Indígena,7,Legal,88478.97,Asesor Legal
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+702,Masculino,Afrodescendiente,31,Finanzas,124673.1,Contador
+182,Masculino,Asiático,23,Tecnología,84695.31,Desarrollador
+490,Masculino,Caucásico,18,Recursos Humanos,59940.87,Coordinador de RRHH
+7,Masculino,Hispano,18,Marketing,75304.7,Estratega Digital
+74,Masculino,Asiático,30,Recursos Humanos,88793.86,Especialista en RRHH
+963,Masculino,Otros,35,Recursos Humanos,68528.16,Especialista en RRHH
+600,Masculino,Indígena,25,Finanzas,63015.05,Analista Financiero
+257,Masculino,Hispano,14,Recursos Humanos,50326.93,Reclutador
+187,Masculino,Hispano,35,Finanzas,95883.02,Analista Financiero
+984,Masculino,Indígena,7,Legal,88478.97,Asesor Legal
+226,Masculino,Otros,5,Marketing,89537.54,Estratega Digital
+127,Masculino,Hispano,18,Recursos Humanos,62003.0,Reclutador
+273,Masculino,Asiático,11,Ventas,68736.74,Gerente de Ventas
+576,Masculino,Asiático,39,Operaciones,76151.37,Empleado General
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+348,Masculino,Indígena,29,Ventas,46967.33,Gerente de Ventas
+487,Masculino,Hispano,6,Marketing,68596.93,Estratega Digital
+15,Masculino,Asiático,29,Legal,83919.34,Asesor Legal
+876,Masculino,Asiático,36,Legal,102885.91,Paralegal
+899,Masculino,Otros,16,Legal,93375.08,Paralegal
+834,Masculino,Otros,29,Recursos Humanos,89863.08,Especialista en RRHH
+243,Masculino,Hispano,8,Recursos Humanos,79983.85,Especialista en RRHH
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+385,Masculino,Caucásico,33,Recursos Humanos,91684.67,Coordinador de RRHH
+209,Masculino,Otros,26,Ventas,72550.16,Asistente de Ventas
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+990,Masculino,Otros,16,Legal,108126.5,Paralegal
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+982,Masculino,Asiático,23,Marketing,99299.0,Especialista en Marketing
+360,Masculino,Otros,30,Ventas,88522.09,Ejecutivo de Ventas
+556,Masculino,Asiático,8,Operaciones,89731.25,Empleado General
+637,Masculino,Indígena,18,Operaciones,72763.27,Empleado General
+958,Masculino,Indígena,15,Tecnología,86424.86,Desarrollador
+61,Masculino,Otros,4,Operaciones,76758.8,Empleado General
+359,Masculino,Asiático,30,Operaciones,104532.09,Empleado General
+374,Masculino,Indígena,6,Tecnología,107907.11,Desarrollador
+536,Masculino,Otros,12,Marketing,85871.03,Diseñador Gráfico
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+67,Masculino,Indígena,3,Legal,94309.96,Abogado
+243,Masculino,Hispano,8,Recursos Humanos,79983.85,Especialista en RRHH
+321,Masculino,Asiático,10,Finanzas,119860.98,Contador
+673,Masculino,Otros,31,Marketing,87875.99,Diseñador Gráfico
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+692,Masculino,Caucásico,40,Legal,81004.76,Asesor Legal
+702,Masculino,Afrodescendiente,31,Finanzas,124673.1,Contador
+278,Masculino,Indígena,26,Recursos Humanos,59823.75,Especialista en RRHH
+899,Masculino,Otros,16,Legal,93375.08,Paralegal
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+937,Masculino,Otros,24,Operaciones,64412.31,Empleado General
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+675,Masculino,Asiático,3,Recursos Humanos,72197.9,Reclutador
+963,Masculino,Otros,35,Recursos Humanos,68528.16,Especialista en RRHH
+937,Masculino,Otros,24,Operaciones,64412.31,Empleado General
+712,Masculino,Otros,35,Legal,141964.47,Paralegal
+339,Masculino,Caucásico,8,Legal,89834.55,Asesor Legal
+934,Masculino,Asiático,38,Recursos Humanos,70084.32,Coordinador de RRHH
+730,Masculino,Indígena,7,Recursos Humanos,86258.76,Especialista en RRHH
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+597,Masculino,Hispano,17,Recursos Humanos,47154.25,Coordinador de RRHH
+18,Masculino,Afrodescendiente,9,Legal,102740.87,Paralegal
+675,Masculino,Asiático,3,Recursos Humanos,72197.9,Reclutador
+876,Masculino,Asiático,36,Legal,102885.91,Paralegal
+991,Masculino,Indígena,7,Ventas,36837.57,Gerente de Ventas
+360,Masculino,Otros,30,Ventas,88522.09,Ejecutivo de Ventas
+804,Masculino,Otros,17,Ventas,73358.08,Ejecutivo de Ventas
+517,Masculino,Indígena,20,Operaciones,59084.63,Empleado General
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+317,Masculino,Otros,7,Legal,105221.55,Asesor Legal
+94,Masculino,Indígena,2,Marketing,46619.85,Estratega Digital
+43,Masculino,Asiático,1,Legal,75509.59,Paralegal
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+937,Masculino,Otros,24,Operaciones,64412.31,Empleado General
+774,Masculino,Hispano,7,Operaciones,68221.06,Empleado General
+931,Masculino,Hispano,20,Recursos Humanos,83438.21,Coordinador de RRHH
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+348,Masculino,Indígena,29,Ventas,46967.33,Gerente de Ventas
+484,Masculino,Otros,14,Recursos Humanos,49109.07,Especialista en RRHH
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+981,Masculino,Otros,17,Recursos Humanos,78631.48,Reclutador
+851,Masculino,Caucásico,35,Ventas,47578.56,Gerente de Ventas
+612,Masculino,Otros,24,Ventas,78520.67,Ejecutivo de Ventas
+651,Masculino,Afrodescendiente,31,Marketing,83135.19,Especialista en Marketing
+937,Masculino,Otros,24,Operaciones,64412.31,Empleado General
+774,Masculino,Hispano,7,Operaciones,68221.06,Empleado General
+903,Masculino,Afrodescendiente,13,Recursos Humanos,86705.68,Especialista en RRHH
+244,Masculino,Otros,8,Ventas,88964.27,Ejecutivo de Ventas
+278,Masculino,Indígena,26,Recursos Humanos,59823.75,Especialista en RRHH
+584,Masculino,Otros,27,Legal,139805.85,Paralegal
+754,Masculino,Indígena,29,Legal,88399.87,Asesor Legal
+712,Masculino,Otros,35,Legal,141964.47,Paralegal
+774,Masculino,Hispano,7,Operaciones,68221.06,Empleado General
+193,Masculino,Hispano,31,Tecnología,134590.64,Administrador de Sistemas
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+97,Masculino,Afrodescendiente,9,Marketing,51283.07,Especialista en Marketing
+116,Masculino,Indígena,15,Operaciones,102209.11,Empleado General
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+911,Masculino,Caucásico,23,Recursos Humanos,91972.18,Reclutador
+637,Masculino,Indígena,18,Operaciones,72763.27,Empleado General
+187,Masculino,Hispano,35,Finanzas,95883.02,Analista Financiero
+243,Masculino,Hispano,8,Recursos Humanos,79983.85,Especialista en RRHH
+401,Masculino,Otros,3,Marketing,53284.13,Especialista en Marketing
+675,Masculino,Asiático,3,Recursos Humanos,72197.9,Reclutador
+980,Masculino,Indígena,10,Tecnología,125957.06,Desarrollador
+860,Masculino,Asiático,34,Operaciones,70937.38,Empleado General
+202,Masculino,Afrodescendiente,23,Ventas,85256.81,Ejecutivo de Ventas
+577,Masculino,Otros,23,Legal,136505.98,Paralegal
+321,Masculino,Asiático,10,Finanzas,119860.98,Contador
+822,Masculino,Otros,32,Recursos Humanos,78254.17,Reclutador
+781,Masculino,Otros,3,Tecnología,132972.11,Desarrollador
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+18,Masculino,Afrodescendiente,9,Legal,102740.87,Paralegal
+586,Masculino,Caucásico,27,Legal,103501.24,Abogado
+209,Masculino,Otros,26,Ventas,72550.16,Asistente de Ventas
+490,Masculino,Caucásico,18,Recursos Humanos,59940.87,Coordinador de RRHH
+726,Masculino,Indígena,14,Recursos Humanos,80050.3,Coordinador de RRHH
+910,Masculino,Hispano,18,Ventas,43697.47,Ejecutivo de Ventas
+306,Masculino,Asiático,17,Tecnología,119426.66,Administrador de Sistemas
+712,Masculino,Otros,35,Legal,141964.47,Paralegal
+386,Masculino,Indígena,10,Marketing,85891.1,Especialista en Marketing
+940,Masculino,Indígena,22,Finanzas,124053.21,Contador
+231,Masculino,Indígena,9,Finanzas,118354.58,Contador
+864,Masculino,Afrodescendiente,39,Operaciones,69383.85,Empleado General
+116,Masculino,Indígena,15,Operaciones,102209.11,Empleado General
+359,Masculino,Asiático,30,Operaciones,104532.09,Empleado General
+205,Masculino,Caucásico,39,Ventas,60345.06,Ejecutivo de Ventas
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+781,Masculino,Otros,3,Tecnología,132972.11,Desarrollador
+911,Masculino,Caucásico,23,Recursos Humanos,91972.18,Reclutador
+905,Masculino,Caucásico,13,Finanzas,82164.64,Auditor
+357,Masculino,Caucásico,39,Marketing,104888.06,Especialista en Marketing
+754,Masculino,Indígena,29,Legal,88399.87,Asesor Legal
+538,Masculino,Afrodescendiente,28,Operaciones,81828.59,Empleado General
+93,Masculino,Hispano,25,Marketing,56263.94,Estratega Digital
+234,Masculino,Indígena,19,Legal,66609.11,Abogado
+362,Masculino,Asiático,11,Recursos Humanos,80755.96,Coordinador de RRHH
+983,Masculino,Otros,7,Tecnología,111320.6,Administrador de Sistemas
+441,Masculino,Afrodescendiente,10,Marketing,47613.96,Especialista en Marketing
+226,Masculino,Otros,5,Marketing,89537.54,Estratega Digital
+686,Masculino,Otros,10,Tecnología,84592.98,Administrador de Sistemas
+318,Masculino,Otros,22,Tecnología,111218.68,Desarrollador
+834,Masculino,Otros,29,Recursos Humanos,89863.08,Especialista en RRHH
+948,Masculino,Otros,34,Legal,91688.27,Paralegal
+839,Masculino,Hispano,8,Finanzas,120064.19,Auditor
+101,Masculino,Hispano,10,Finanzas,104724.61,Contador
+985,Masculino,Hispano,15,Finanzas,124259.25,Auditor
+67,Masculino,Indígena,3,Legal,94309.96,Abogado
+273,Masculino,Asiático,11,Ventas,68736.74,Gerente de Ventas
+90,Masculino,Otros,34,Ventas,52869.15,Ejecutivo de Ventas
+600,Masculino,Indígena,25,Finanzas,63015.05,Analista Financiero
+729,Masculino,Caucásico,36,Ventas,89521.29,Asistente de Ventas
+609,Masculino,Otros,3,Tecnología,113893.03,Administrador de Sistemas
+61,Masculino,Otros,4,Operaciones,76758.8,Empleado General
+749,Masculino,Asiático,6,Legal,117288.52,Abogado
+686,Masculino,Otros,10,Tecnología,84592.98,Administrador de Sistemas
+437,Masculino,Caucásico,7,Recursos Humanos,59446.65,Coordinador de RRHH
+517,Masculino,Indígena,20,Operaciones,59084.63,Empleado General
+834,Masculino,Otros,29,Recursos Humanos,89863.08,Especialista en RRHH
+116,Masculino,Indígena,15,Operaciones,102209.11,Empleado General
+850,Masculino,Otros,22,Ventas,45755.16,Ejecutivo de Ventas
+940,Masculino,Indígena,22,Finanzas,124053.21,Contador
+42,Masculino,Otros,24,Tecnología,100521.37,Administrador de Sistemas
+487,Masculino,Hispano,6,Marketing,68596.93,Estratega Digital
+234,Masculino,Indígena,19,Legal,66609.11,Abogado
+386,Masculino,Indígena,10,Marketing,85891.1,Especialista en Marketing
+836,Masculino,Hispano,25,Legal,137509.13,Paralegal
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+796,Masculino,Indígena,35,Tecnología,157915.9,Desarrollador
+93,Masculino,Hispano,25,Marketing,56263.94,Estratega Digital
+348,Masculino,Indígena,29,Ventas,46967.33,Gerente de Ventas
+850,Masculino,Otros,22,Ventas,45755.16,Ejecutivo de Ventas
+294,Masculino,Asiático,28,Ventas,84272.06,Ejecutivo de Ventas
+495,Masculino,Caucásico,28,Recursos Humanos,63860.71,Especialista en RRHH
+360,Masculino,Otros,30,Ventas,88522.09,Ejecutivo de Ventas
+894,Masculino,Hispano,32,Marketing,82016.18,Diseñador Gráfico
+675,Masculino,Asiático,3,Recursos Humanos,72197.9,Reclutador
+969,Masculino,Indígena,1,Finanzas,72202.38,Auditor
+405,Masculino,Otros,37,Legal,138494.68,Asesor Legal
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+437,Masculino,Caucásico,7,Recursos Humanos,59446.65,Coordinador de RRHH
+516,Masculino,Otros,25,Ventas,63034.42,Gerente de Ventas
+836,Masculino,Hispano,25,Legal,137509.13,Paralegal
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+193,Masculino,Hispano,31,Tecnología,134590.64,Administrador de Sistemas
+130,Masculino,Hispano,34,Operaciones,99919.34,Empleado General
+123,Masculino,Hispano,21,Finanzas,82315.7,Auditor
+234,Masculino,Indígena,19,Legal,66609.11,Abogado
+948,Masculino,Otros,34,Legal,91688.27,Paralegal
+132,Masculino,Hispano,22,Ventas,47888.82,Ejecutivo de Ventas
+500,Masculino,Caucásico,32,Ventas,84056.0,Asistente de Ventas
+937,Masculino,Otros,24,Operaciones,64412.31,Empleado General
+275,Masculino,Caucásico,4,Legal,67823.4,Asesor Legal
+101,Masculino,Hispano,10,Finanzas,104724.61,Contador
+291,Masculino,Afrodescendiente,28,Recursos Humanos,70134.33,Coordinador de RRHH
+390,Masculino,Asiático,27,Operaciones,86314.93,Empleado General
+584,Masculino,Otros,27,Legal,139805.85,Paralegal
+464,Masculino,Afrodescendiente,9,Marketing,48374.18,Estratega Digital
+228,Masculino,Asiático,12,Legal,126605.77,Paralegal
+11,Masculino,Indígena,11,Ventas,56745.82,Asistente de Ventas
+318,Masculino,Otros,22,Tecnología,111218.68,Desarrollador
+243,Masculino,Hispano,8,Recursos Humanos,79983.85,Especialista en RRHH
+582,Masculino,Afrodescendiente,7,Finanzas,78659.67,Contador
+384,Masculino,Asiático,30,Operaciones,70191.93,Empleado General
+526,Masculino,Caucásico,35,Recursos Humanos,71435.17,Especialista en RRHH
+738,Masculino,Caucásico,28,Legal,69439.85,Abogado
+511,Masculino,Indígena,24,Marketing,76825.77,Estratega Digital
+726,Masculino,Indígena,14,Recursos Humanos,80050.3,Coordinador de RRHH
+817,Masculino,Indígena,3,Operaciones,59182.08,Empleado General
+821,Masculino,Indígena,40,Tecnología,163692.96,Analista de Datos
+500,Masculino,Caucásico,32,Ventas,84056.0,Asistente de Ventas
+342,Masculino,Caucásico,36,Finanzas,91909.93,Auditor
+701,Masculino,Otros,25,Tecnología,93461.17,Administrador de Sistemas
+754,Masculino,Indígena,29,Legal,88399.87,Asesor Legal
+487,Masculino,Hispano,6,Marketing,68596.93,Estratega Digital
+506,Masculino,Hispano,3,Finanzas,97017.85,Contador
+686,Masculino,Otros,10,Tecnología,84592.98,Administrador de Sistemas
+796,Masculino,Indígena,35,Tecnología,157915.9,Desarrollador
+975,Masculino,Otros,26,Legal,134187.13,Abogado
+303,Masculino,Otros,35,Tecnología,133912.24,Desarrollador
+711,Masculino,Caucásico,3,Legal,124122.34,Asesor Legal
+730,Masculino,Indígena,7,Recursos Humanos,86258.76,Especialista en RRHH
+948,Masculino,Otros,34,Legal,91688.27,Paralegal
+213,Femenino,Indígena,3,Marketing,60454.97,Estratega Digital
+47,Femenino,Caucásico,7,Marketing,69033.75,Especialista en Marketing
+387,Femenino,Hispano,37,Operaciones,107381.62,Empleado General
+831,Femenino,Indígena,34,Finanzas,89711.06,Auditor
+270,Femenino,Asiático,40,Recursos Humanos,72620.7,Reclutador
+733,Femenino,Otros,25,Finanzas,66380.11,Contador
+832,Femenino,Afrodescendiente,18,Recursos Humanos,43892.2,Coordinador de RRHH
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+592,Femenino,Indígena,13,Legal,65259.38,Paralegal
+455,Femenino,Otros,20,Recursos Humanos,54257.36,Coordinador de RRHH
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+119,Femenino,Afrodescendiente,28,Finanzas,102791.52,Contador
+762,Femenino,Hispano,3,Operaciones,86889.46,Empleado General
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+946,Femenino,Asiático,20,Tecnología,76561.8,Administrador de Sistemas
+728,Femenino,Indígena,38,Recursos Humanos,64599.4,Reclutador
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+393,Femenino,Hispano,21,Operaciones,71370.28,Empleado General
+728,Femenino,Indígena,38,Recursos Humanos,64599.4,Reclutador
+989,Femenino,Otros,14,Ventas,55622.58,Ejecutivo de Ventas
+907,Femenino,Afrodescendiente,39,Legal,82892.78,Asesor Legal
+195,Femenino,Asiático,2,Finanzas,106449.65,Contador
+507,Femenino,Caucásico,26,Recursos Humanos,50338.83,Coordinador de RRHH
+989,Femenino,Otros,14,Ventas,55622.58,Ejecutivo de Ventas
+568,Femenino,Caucásico,32,Operaciones,93779.11,Empleado General
+233,Femenino,Afrodescendiente,4,Recursos Humanos,46121.8,Especialista en RRHH
+372,Femenino,Caucásico,23,Operaciones,87574.21,Empleado General
+815,Femenino,Otros,8,Legal,96663.84,Asesor Legal
+115,Femenino,Hispano,29,Finanzas,105070.13,Analista Financiero
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+150,Femenino,Indígena,16,Finanzas,62863.83,Auditor
+115,Femenino,Hispano,29,Finanzas,105070.13,Analista Financiero
+421,Femenino,Afrodescendiente,31,Ventas,55564.89,Ejecutivo de Ventas
+837,Femenino,Afrodescendiente,38,Ventas,61397.95,Ejecutivo de Ventas
+624,Femenino,Caucásico,29,Operaciones,77963.93,Empleado General
+523,Femenino,Hispano,13,Marketing,60528.28,Especialista en Marketing
+35,Femenino,Otros,24,Finanzas,69876.1,Auditor
+921,Femenino,Hispano,22,Finanzas,118468.97,Contador
+946,Femenino,Asiático,20,Tecnología,76561.8,Administrador de Sistemas
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+767,Femenino,Asiático,21,Ventas,63632.66,Asistente de Ventas
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+553,Femenino,Caucásico,16,Recursos Humanos,57734.84,Coordinador de RRHH
+467,Femenino,Indígena,7,Operaciones,76281.35,Empleado General
+388,Femenino,Otros,12,Recursos Humanos,59436.83,Coordinador de RRHH
+139,Femenino,Otros,36,Operaciones,102703.87,Empleado General
+722,Femenino,Otros,4,Legal,60868.07,Asesor Legal
+772,Femenino,Afrodescendiente,32,Recursos Humanos,85306.56,Especialista en RRHH
+100,Femenino,Otros,9,Legal,98576.19,Asesor Legal
+741,Femenino,Indígena,17,Recursos Humanos,79544.21,Especialista en RRHH
+261,Femenino,Hispano,11,Finanzas,90975.32,Auditor
+17,Femenino,Indígena,13,Operaciones,64342.6,Empleado General
+156,Femenino,Indígena,39,Marketing,71786.45,Especialista en Marketing
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+451,Femenino,Asiático,19,Tecnología,138927.59,Administrador de Sistemas
+46,Femenino,Hispano,4,Operaciones,82350.03,Empleado General
+196,Femenino,Indígena,5,Legal,118062.44,Paralegal
+589,Femenino,Afrodescendiente,21,Operaciones,85544.1,Empleado General
+803,Femenino,Hispano,31,Legal,76217.87,Paralegal
+89,Femenino,Otros,16,Finanzas,85991.18,Contador
+819,Femenino,Otros,34,Tecnología,99839.35,Administrador de Sistemas
+973,Femenino,Asiático,16,Tecnología,119148.81,Administrador de Sistemas
+772,Femenino,Afrodescendiente,32,Recursos Humanos,85306.56,Especialista en RRHH
+907,Femenino,Afrodescendiente,39,Legal,82892.78,Asesor Legal
+119,Femenino,Afrodescendiente,28,Finanzas,102791.52,Contador
+269,Femenino,Otros,35,Marketing,76868.14,Estratega Digital
+505,Femenino,Hispano,34,Ventas,66115.1,Asistente de Ventas
+866,Femenino,Hispano,5,Marketing,71297.81,Diseñador Gráfico
+918,Femenino,Otros,7,Ventas,47300.85,Asistente de Ventas
+890,Femenino,Hispano,4,Legal,70543.6,Abogado
+393,Femenino,Hispano,21,Operaciones,71370.28,Empleado General
+630,Femenino,Otros,9,Marketing,74127.52,Diseñador Gráfico
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+568,Femenino,Caucásico,32,Operaciones,93779.11,Empleado General
+344,Femenino,Hispano,32,Marketing,53046.53,Estratega Digital
+393,Femenino,Hispano,21,Operaciones,71370.28,Empleado General
+381,Femenino,Otros,18,Marketing,54286.93,Especialista en Marketing
+446,Femenino,Afrodescendiente,6,Recursos Humanos,38869.93,Especialista en RRHH
+664,Femenino,Otros,5,Legal,75465.26,Abogado
+336,Femenino,Afrodescendiente,30,Recursos Humanos,65289.57,Reclutador
+207,Femenino,Caucásico,11,Operaciones,94449.1,Empleado General
+709,Femenino,Otros,28,Ventas,60796.99,Asistente de Ventas
+992,Femenino,Asiático,32,Marketing,70883.21,Estratega Digital
+13,Femenino,Asiático,22,Finanzas,75820.15,Contador
+65,Femenino,Caucásico,40,Legal,85159.99,Paralegal
+970,Femenino,Hispano,1,Marketing,75997.74,Especialista en Marketing
+731,Femenino,Hispano,30,Tecnología,87012.0,Administrador de Sistemas
+563,Femenino,Hispano,1,Recursos Humanos,51985.06,Reclutador
+178,Femenino,Asiático,35,Recursos Humanos,73724.02,Reclutador
+100,Femenino,Otros,9,Legal,98576.19,Asesor Legal
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+886,Femenino,Otros,1,Tecnología,111385.79,Desarrollador
+134,Femenino,Hispano,36,Tecnología,124619.09,Administrador de Sistemas
+387,Femenino,Hispano,37,Operaciones,107381.62,Empleado General
+259,Femenino,Caucásico,26,Marketing,59341.67,Diseñador Gráfico
+919,Femenino,Caucásico,40,Tecnología,99762.36,Analista de Datos
+60,Femenino,Hispano,24,Finanzas,85506.25,Contador
+150,Femenino,Indígena,16,Finanzas,62863.83,Auditor
+270,Femenino,Asiático,40,Recursos Humanos,72620.7,Reclutador
+897,Femenino,Indígena,36,Legal,78814.57,Asesor Legal
+884,Femenino,Otros,18,Legal,107600.65,Abogado
+693,Femenino,Asiático,39,Marketing,73727.79,Diseñador Gráfico
+17,Femenino,Indígena,13,Operaciones,64342.6,Empleado General
+252,Femenino,Otros,19,Ventas,40647.08,Ejecutivo de Ventas
+173,Femenino,Indígena,40,Marketing,69638.8,Diseñador Gráfico
+853,Femenino,Otros,16,Recursos Humanos,77714.55,Reclutador
+722,Femenino,Otros,4,Legal,60868.07,Asesor Legal
+580,Femenino,Afrodescendiente,24,Operaciones,50075.34,Empleado General
+381,Femenino,Otros,18,Marketing,54286.93,Especialista en Marketing
+886,Femenino,Otros,1,Tecnología,111385.79,Desarrollador
+564,Femenino,Asiático,6,Tecnología,86165.18,Administrador de Sistemas
+337,Femenino,Indígena,9,Ventas,63445.84,Ejecutivo de Ventas
+62,Femenino,Hispano,19,Ventas,81052.31,Asistente de Ventas
+325,Femenino,Otros,27,Finanzas,98409.62,Auditor
+573,Femenino,Asiático,15,Recursos Humanos,74353.16,Reclutador
+324,Femenino,Indígena,38,Operaciones,61730.65,Empleado General
+388,Femenino,Otros,12,Recursos Humanos,59436.83,Coordinador de RRHH
+919,Femenino,Caucásico,40,Tecnología,99762.36,Analista de Datos
+815,Femenino,Otros,8,Legal,96663.84,Asesor Legal
+320,Femenino,Hispano,18,Ventas,43780.24,Gerente de Ventas
+505,Femenino,Hispano,34,Ventas,66115.1,Asistente de Ventas
+16,Femenino,Otros,34,Marketing,69560.59,Estratega Digital
+64,Femenino,Indígena,11,Ventas,55550.94,Gerente de Ventas
+785,Femenino,Otros,1,Legal,112767.1,Asesor Legal
+544,Femenino,Otros,35,Ventas,84012.69,Gerente de Ventas
+820,Femenino,Afrodescendiente,24,Legal,95350.07,Paralegal
+38,Femenino,Indígena,16,Legal,81350.88,Asesor Legal
+785,Femenino,Otros,1,Legal,112767.1,Asesor Legal
+630,Femenino,Otros,9,Marketing,74127.52,Diseñador Gráfico
+451,Femenino,Asiático,19,Tecnología,138927.59,Administrador de Sistemas
+949,Femenino,Indígena,1,Finanzas,47354.19,Auditor
+620,Femenino,Otros,34,Tecnología,71671.58,Desarrollador
+22,Femenino,Afrodescendiente,19,Marketing,69934.58,Especialista en Marketing
+47,Femenino,Caucásico,7,Marketing,69033.75,Especialista en Marketing
+282,Femenino,Afrodescendiente,24,Recursos Humanos,52795.68,Reclutador
+156,Femenino,Indígena,39,Marketing,71786.45,Especialista en Marketing
+455,Femenino,Otros,20,Recursos Humanos,54257.36,Coordinador de RRHH
+372,Femenino,Caucásico,23,Operaciones,87574.21,Empleado General
+38,Femenino,Indígena,16,Legal,81350.88,Asesor Legal
+491,Femenino,Asiático,13,Finanzas,86236.55,Analista Financiero
+171,Femenino,Indígena,27,Marketing,83423.87,Especialista en Marketing
+455,Femenino,Otros,20,Recursos Humanos,54257.36,Coordinador de RRHH
+681,Femenino,Indígena,13,Marketing,51224.7,Diseñador Gráfico
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+728,Femenino,Indígena,38,Recursos Humanos,64599.4,Reclutador
+824,Femenino,Asiático,30,Finanzas,64684.02,Analista Financiero
+233,Femenino,Afrodescendiente,4,Recursos Humanos,46121.8,Especialista en RRHH
+999,Femenino,Hispano,6,Legal,72418.08,Asesor Legal
+687,Femenino,Caucásico,9,Tecnología,131320.21,Analista de Datos
+523,Femenino,Hispano,13,Marketing,60528.28,Especialista en Marketing
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+621,Femenino,Indígena,25,Marketing,69991.99,Especialista en Marketing
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+47,Femenino,Caucásico,7,Marketing,69033.75,Especialista en Marketing
+388,Femenino,Otros,12,Recursos Humanos,59436.83,Coordinador de RRHH
+451,Femenino,Asiático,19,Tecnología,138927.59,Administrador de Sistemas
+38,Femenino,Indígena,16,Legal,81350.88,Asesor Legal
+993,Femenino,Otros,19,Legal,90614.11,Asesor Legal
+213,Femenino,Indígena,3,Marketing,60454.97,Estratega Digital
+540,Femenino,Indígena,19,Marketing,45905.96,Estratega Digital
+316,Femenino,Afrodescendiente,25,Finanzas,78117.92,Analista Financiero
+593,Femenino,Hispano,23,Operaciones,70932.8,Empleado General
+523,Femenino,Hispano,13,Marketing,60528.28,Especialista en Marketing
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+207,Femenino,Caucásico,11,Operaciones,94449.1,Empleado General
+837,Femenino,Afrodescendiente,38,Ventas,61397.95,Ejecutivo de Ventas
+866,Femenino,Hispano,5,Marketing,71297.81,Diseñador Gráfico
+451,Femenino,Asiático,19,Tecnología,138927.59,Administrador de Sistemas
+1000,Femenino,Otros,22,Finanzas,82812.39,Contador
+172,Femenino,Hispano,23,Recursos Humanos,79177.76,Reclutador
+780,Femenino,Indígena,35,Recursos Humanos,70714.98,Coordinador de RRHH
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+254,Femenino,Hispano,12,Recursos Humanos,40855.92,Reclutador
+445,Femenino,Hispano,35,Finanzas,85547.79,Analista Financiero
+197,Femenino,Caucásico,27,Marketing,61354.6,Especialista en Marketing
+751,Femenino,Caucásico,18,Operaciones,60615.91,Empleado General
+1000,Femenino,Otros,22,Finanzas,82812.39,Contador
+919,Femenino,Caucásico,40,Tecnología,99762.36,Analista de Datos
+568,Femenino,Caucásico,32,Operaciones,93779.11,Empleado General
+312,Femenino,Indígena,25,Operaciones,64045.43,Empleado General
+81,Femenino,Afrodescendiente,40,Marketing,58126.7,Diseñador Gráfico
+620,Femenino,Otros,34,Tecnología,71671.58,Desarrollador
+349,Femenino,Caucásico,16,Legal,97578.79,Paralegal
+763,Femenino,Asiático,11,Tecnología,75756.75,Administrador de Sistemas
+996,Femenino,Asiático,17,Recursos Humanos,48899.45,Especialista en RRHH
+233,Femenino,Afrodescendiente,4,Recursos Humanos,46121.8,Especialista en RRHH
+150,Femenino,Indígena,16,Finanzas,62863.83,Auditor
+527,Femenino,Indígena,39,Marketing,94626.33,Especialista en Marketing
+76,Femenino,Afrodescendiente,38,Finanzas,72014.19,Analista Financiero
+139,Femenino,Otros,36,Operaciones,102703.87,Empleado General
+907,Femenino,Afrodescendiente,39,Legal,82892.78,Asesor Legal
+598,Femenino,Asiático,28,Marketing,64891.82,Especialista en Marketing
+499,Femenino,Asiático,40,Operaciones,102072.81,Empleado General
+316,Femenino,Afrodescendiente,25,Finanzas,78117.92,Analista Financiero
+728,Femenino,Indígena,38,Recursos Humanos,64599.4,Reclutador
+938,Femenino,Hispano,7,Marketing,53589.5,Estratega Digital
+886,Femenino,Otros,1,Tecnología,111385.79,Desarrollador
+387,Femenino,Hispano,37,Operaciones,107381.62,Empleado General
+772,Femenino,Afrodescendiente,32,Recursos Humanos,85306.56,Especialista en RRHH
+131,Femenino,Indígena,12,Marketing,53081.98,Especialista en Marketing
+16,Femenino,Otros,34,Marketing,69560.59,Estratega Digital
+728,Femenino,Indígena,38,Recursos Humanos,64599.4,Reclutador
+778,Femenino,Afrodescendiente,8,Recursos Humanos,52821.58,Coordinador de RRHH
+282,Femenino,Afrodescendiente,24,Recursos Humanos,52795.68,Reclutador
+575,Femenino,Caucásico,21,Operaciones,80869.17,Empleado General
+970,Femenino,Hispano,1,Marketing,75997.74,Especialista en Marketing
+196,Femenino,Indígena,5,Legal,118062.44,Paralegal
+716,Femenino,Otros,5,Marketing,59871.29,Diseñador Gráfico
+414,Femenino,Indígena,24,Recursos Humanos,65516.62,Coordinador de RRHH
+722,Femenino,Otros,4,Legal,60868.07,Asesor Legal
+681,Femenino,Indígena,13,Marketing,51224.7,Diseñador Gráfico
+680,Femenino,Hispano,37,Marketing,79030.92,Especialista en Marketing
+746,Femenino,Hispano,34,Recursos Humanos,53063.19,Especialista en RRHH
+938,Femenino,Hispano,7,Marketing,53589.5,Estratega Digital
+46,Femenino,Hispano,4,Operaciones,82350.03,Empleado General
+467,Femenino,Indígena,7,Operaciones,76281.35,Empleado General
+134,Femenino,Hispano,36,Tecnología,124619.09,Administrador de Sistemas
+989,Femenino,Otros,14,Ventas,55622.58,Ejecutivo de Ventas
+987,Femenino,Indígena,4,Marketing,45277.71,Estratega Digital
+592,Femenino,Indígena,13,Legal,65259.38,Paralegal
+563,Femenino,Hispano,1,Recursos Humanos,51985.06,Reclutador
+29,Femenino,Afrodescendiente,31,Finanzas,71619.06,Contador
+621,Femenino,Indígena,25,Marketing,69991.99,Especialista en Marketing
+938,Femenino,Hispano,7,Marketing,53589.5,Estratega Digital
+540,Femenino,Indígena,19,Marketing,45905.96,Estratega Digital
+987,Femenino,Indígena,4,Marketing,45277.71,Estratega Digital
+282,Femenino,Afrodescendiente,24,Recursos Humanos,52795.68,Reclutador
+191,Femenino,Otros,6,Finanzas,102990.43,Auditor
+837,Femenino,Afrodescendiente,38,Ventas,61397.95,Ejecutivo de Ventas
+570,Femenino,Afrodescendiente,13,Finanzas,75152.3,Auditor
+569,Femenino,Asiático,30,Ventas,67596.16,Ejecutivo de Ventas
+118,Femenino,Indígena,37,Finanzas,88784.19,Analista Financiero
+800,Femenino,Afrodescendiente,35,Finanzas,69833.05,Contador
+305,Femenino,Afrodescendiente,28,Legal,95783.93,Abogado
+316,Femenino,Afrodescendiente,25,Finanzas,78117.92,Analista Financiero
+387,Femenino,Hispano,37,Operaciones,107381.62,Empleado General
+314,Femenino,Otros,38,Operaciones,84731.89,Empleado General
+970,Femenino,Hispano,1,Marketing,75997.74,Especialista en Marketing
+733,Femenino,Otros,25,Finanzas,66380.11,Contador
+388,Femenino,Otros,12,Recursos Humanos,59436.83,Coordinador de RRHH
+145,Femenino,Hispano,18,Recursos Humanos,43981.35,Coordinador de RRHH
+254,Femenino,Hispano,12,Recursos Humanos,40855.92,Reclutador
+825,Femenino,Indígena,13,Operaciones,83452.59,Empleado General
+455,Femenino,Otros,20,Recursos Humanos,54257.36,Coordinador de RRHH
+989,Femenino,Otros,14,Ventas,55622.58,Ejecutivo de Ventas
+324,Femenino,Indígena,38,Operaciones,61730.65,Empleado General
+241,Femenino,Hispano,22,Marketing,49433.97,Diseñador Gráfico
+171,Femenino,Indígena,27,Marketing,83423.87,Especialista en Marketing
+989,Femenino,Otros,14,Ventas,55622.58,Ejecutivo de Ventas
+115,Femenino,Hispano,29,Finanzas,105070.13,Analista Financiero
+172,Femenino,Hispano,23,Recursos Humanos,79177.76,Reclutador
+64,Femenino,Indígena,11,Ventas,55550.94,Gerente de Ventas
+938,Femenino,Hispano,7,Marketing,53589.5,Estratega Digital
+970,Femenino,Hispano,1,Marketing,75997.74,Especialista en Marketing
+62,Femenino,Hispano,19,Ventas,81052.31,Asistente de Ventas
+165,Femenino,Asiático,7,Tecnología,104714.28,Analista de Datos
+503,Femenino,Otros,33,Legal,77105.98,Paralegal
+518,Femenino,Indígena,18,Tecnología,130407.26,Analista de Datos
+569,Femenino,Asiático,30,Ventas,67596.16,Ejecutivo de Ventas
+261,Femenino,Hispano,11,Finanzas,90975.32,Auditor
+118,Femenino,Indígena,37,Finanzas,88784.19,Analista Financiero
+423,Femenino,Otros,39,Tecnología,80334.5,Desarrollador
+918,Femenino,Otros,7,Ventas,47300.85,Asistente de Ventas
+349,Femenino,Caucásico,16,Legal,97578.79,Paralegal
+76,Femenino,Afrodescendiente,38,Finanzas,72014.19,Analista Financiero
+607,Femenino,Asiático,2,Ventas,49608.79,Ejecutivo de Ventas
+505,Femenino,Hispano,34,Ventas,66115.1,Asistente de Ventas
+564,Femenino,Asiático,6,Tecnología,86165.18,Administrador de Sistemas
+780,Femenino,Indígena,35,Recursos Humanos,70714.98,Coordinador de RRHH
+412,Femenino,Hispano,34,Ventas,91332.42,Gerente de Ventas
+523,Femenino,Hispano,13,Marketing,60528.28,Especialista en Marketing
+455,Femenino,Otros,20,Recursos Humanos,54257.36,Coordinador de RRHH
+853,Femenino,Otros,16,Recursos Humanos,77714.55,Reclutador
+35,Femenino,Otros,24,Finanzas,69876.1,Auditor
+472,Femenino,Asiático,22,Marketing,69737.06,Diseñador Gráfico
+316,Femenino,Afrodescendiente,25,Finanzas,78117.92,Analista Financiero
+100,Femenino,Otros,9,Legal,98576.19,Asesor Legal
+1000,Femenino,Otros,22,Finanzas,82812.39,Contador
+944,Femenino,Indígena,22,Finanzas,55326.04,Contador
+919,Femenino,Caucásico,40,Tecnología,99762.36,Analista de Datos
+446,Femenino,Afrodescendiente,6,Recursos Humanos,38869.93,Especialista en RRHH
+607,Femenino,Asiático,2,Ventas,49608.79,Ejecutivo de Ventas
+451,Femenino,Asiático,19,Tecnología,138927.59,Administrador de Sistemas
+64,Femenino,Indígena,11,Ventas,55550.94,Gerente de Ventas
+575,Femenino,Caucásico,21,Operaciones,80869.17,Empleado General
+970,Femenino,Hispano,1,Marketing,75997.74,Especialista en Marketing
+573,Femenino,Asiático,15,Recursos Humanos,74353.16,Reclutador
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+65,Femenino,Caucásico,40,Legal,85159.99,Paralegal
+467,Femenino,Indígena,7,Operaciones,76281.35,Empleado General
+810,Femenino,Indígena,15,Finanzas,74982.2,Auditor
+347,Femenino,Afrodescendiente,28,Tecnología,133521.4,Desarrollador
+393,Femenino,Hispano,21,Operaciones,71370.28,Empleado General
+618,Femenino,Caucásico,36,Marketing,94892.07,Estratega Digital
+575,Femenino,Caucásico,21,Operaciones,80869.17,Empleado General
+474,Femenino,Asiático,37,Ventas,74447.58,Ejecutivo de Ventas
+150,Femenino,Indígena,16,Finanzas,62863.83,Auditor
+733,Femenino,Otros,25,Finanzas,66380.11,Contador
+575,Femenino,Caucásico,21,Operaciones,80869.17,Empleado General
+527,Femenino,Indígena,39,Marketing,94626.33,Especialista en Marketing
+716,Femenino,Otros,5,Marketing,59871.29,Diseñador Gráfico
+687,Femenino,Caucásico,9,Tecnología,131320.21,Analista de Datos
+573,Femenino,Asiático,15,Recursos Humanos,74353.16,Reclutador
+76,Femenino,Afrodescendiente,38,Finanzas,72014.19,Analista Financiero
+564,Femenino,Asiático,6,Tecnología,86165.18,Administrador de Sistemas
+197,Femenino,Caucásico,27,Marketing,61354.6,Especialista en Marketing
+720,Femenino,Otros,16,Marketing,63587.63,Estratega Digital
+195,Femenino,Asiático,2,Finanzas,106449.65,Contador
+949,Femenino,Indígena,1,Finanzas,47354.19,Auditor
+366,Femenino,Asiático,36,Marketing,78698.04,Especialista en Marketing
+340,Femenino,Otros,24,Ventas,48538.98,Ejecutivo de Ventas
+681,Femenino,Indígena,13,Marketing,51224.7,Diseñador Gráfico
+681,Femenino,Indígena,13,Marketing,51224.7,Diseñador Gráfico
+207,Femenino,Caucásico,11,Operaciones,94449.1,Empleado General
+853,Femenino,Otros,16,Recursos Humanos,77714.55,Reclutador
+623,Femenino,Indígena,34,Recursos Humanos,80330.04,Coordinador de RRHH
+563,Femenino,Hispano,1,Recursos Humanos,51985.06,Reclutador
+782,Femenino,Asiático,40,Marketing,80812.06,Especialista en Marketing
+316,Femenino,Afrodescendiente,25,Finanzas,78117.92,Analista Financiero
+17,Femenino,Indígena,13,Operaciones,64342.6,Empleado General
+489,Femenino,Afrodescendiente,25,Marketing,54719.18,Diseñador Gráfico
+191,Femenino,Otros,6,Finanzas,102990.43,Auditor
+595,Femenino,Hispano,37,Finanzas,107612.57,Contador
